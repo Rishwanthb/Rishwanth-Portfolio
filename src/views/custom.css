@@ -1,0 +1,149 @@
+.header-space {
+  padding: 0px 0;
+}
+
+.profile-description-style {
+  margin-top: -30px;
+  max-width: 100%;
+  font-size: 0.875rem;
+  line-height: 26px;
+}
+
+.card-style {
+  z-index: 1;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  min-height: 90%;
+}
+.card.card-coins {
+  border: 2px solid #344675;
+}
+.card.card-coins .card-header {
+  margin: -80px auto 10px;
+}
+.card.card-coins img {
+  width: 80px;
+}
+.card.card-coins hr {
+  width: 20%;
+  margin-left: 10%;
+}
+.card.card-coins .list-group {
+  margin: 0 auto;
+  text-align: center;
+}
+.card.card-coins .list-group .list-group-item {
+  background-color: transparent;
+  border: none;
+  padding: 0.4rem 1rem;
+}
+
+.starcolor {
+  color: gold;
+}
+
+.fullheight {
+  min-height: 15vmax;
+}
+
+.card-header {
+  padding: 1.25rem 1.5rem;
+  text-align: center;
+  margin-bottom: 0;
+  background-color: #f6f9fc;
+  /* border-bottom: 0.0625rem solid rgba(34, 42, 66, 0.05); */
+}
+
+.card-header:first-child {
+  border-radius: calc(0.2857rem - 0.0625rem) calc(0.2857rem - 0.0625rem) 0 0;
+}
+
+.centericon {
+  text-align: center;
+}
+
+.rightalign {
+  text-align: right;
+}
+.footerstyle {
+  padding: 30px 0;
+  border-top: 2px solid #435db5;
+  background: radial-gradient(ellipse at bottom, #292d61 30%, #171941 80%);
+}
+.heart {
+  color: red;
+}
+
+.sectionstyle {
+  padding: 30px 0;
+  position: relative;
+}
+
+.logosize {
+  height: 50px;
+  width: 50px;
+}
+
+.cardbodystyle {
+  color: rgb(190, 190, 190);
+  font-size: small;
+  font-family: "Poppins", sans-serif;
+}
+.hr.sep-2 {
+  border: 0;
+  height: 1px;
+  width: 100%;
+  background-image: linear-gradient(
+    to right,
+    #f0f0f0,
+    #00b9ff,
+    #59d941,
+    #f0f0f0
+  );
+}
+.selectpointer {
+  color: transparent;
+}
+
+.profiletag {
+  margin-top: -1vh;
+}
+.profiletagimage {
+  margin-top: 5vh;
+}
+.inputstyle {
+  height: 30px;
+  border-radius: 6px;
+  color: white;
+  width: 100%;
+  font-family: "Poppins", sans-serif;
+  background-color: transparent;
+  border: 0.0625rem solid #344675;
+}
+
+.messagebox {
+  overflow: scroll;
+  border-radius: 6px;
+  height: 70px;
+  color: white;
+  width: 100%;
+  font-family: "Poppins", sans-serif;
+  background-color: transparent;
+  border: 0.0625rem solid #344675;
+}
+
+.validationerror {
+  color: red;
+}
+
+.cardbg {
+  position: absolute;
+  opacity: 0.03;
+  width: 100%;
+}
+
+.projectcardleft{
+  background-color: transparent;
+  border-bottom:  0.0625rem solid #344675;
+}

@@ -1,0 +1,34 @@
+{
+  "projects" : [ {
+    "Description" : "An ReactJS application developed for an Indian Builder to showcase their properties.",
+    "Year" : "2021",
+    "compatability" : [ "Phone", "Web" ],
+    "demo_link" : "www.demolink.com",
+    "features" : [ "Notification services", "Gallery view" ],
+    "images" : "https://firebasestorage.googleapis.com/v0/b/rishwanth-portfolio.appspot.com/o/golden-legacy.JPG?alt=media&token=f8bf7af1-1943-4202-b0d3-edaa187da4ea",
+    "name" : "Golden Legacy",
+    "repo_link" : "www.github.com/rishwanth14/project1",
+    "tech" : [ "ReactJS", "Firebase", "Github", "Hostinger" ]
+  }, {
+    "Description" : "An application built in ReactJS and Firebase that has a rich collection of pictures of vacations.",
+    "Year" : "2021",
+    "compatability" : [ "Phone", "Web" ],
+    "demo_link" : "www.demolink.com",
+    "features" : [ "Email Authentication", "Galery view", "Image Downlaod option" ],
+    "images" : "https://firebasestorage.googleapis.com/v0/b/rishwanth-portfolio.appspot.com/o/memorybook.JPG?alt=media&token=36344b6d-e798-40af-9671-97628b7fd644",
+    "name" : "Memory Book",
+    "repo_link" : "www.github.com/rishwanth14/project1",
+    "tech" : [ "ReactJS", "Firebase", "Github" ]
+  },
+  {
+    "Description" : "A Chatbot developed in Google Dialogflow and Google Firebase to book movie tickets.",
+    "Year" : "2019",
+    "compatability" : [ "Phone", "Web" ],
+    "demo_link" : "www.demolink.com",
+    "features" : [ "Telephony Gateway integrated" ],
+    "images" : "https://firebasestorage.googleapis.com/v0/b/rishwanth-portfolio.appspot.com/o/Moviebot.JPG?alt=media&token=d8cf18c3-1a19-4750-af94-6c79ad1dbe8e",
+    "name" : "Movie Ticketing Voicebot",
+    "repo_link" : "www.github.com/rishwanth14/project1",
+    "tech" : [ "DialogFlow", "Firebase", "Github" ]
+  } ]
+}
